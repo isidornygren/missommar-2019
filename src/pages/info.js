@@ -6,12 +6,18 @@ export default class Info extends React.PureComponent {
 			<div className="banner-text">
 				<h2>Information</h2>
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
-					et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-					aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-					culpa qui officia deserunt mollit anim id est laborum.
+					Mycket plog å tjo och tjim, hur som vill jag att ni ska känna er välkomna att fira midsommar i
+					Björka by. Här finns: sängar, cyklar, portlidre, husvagn*, Citroën berlingo*, bandsåg*, fotbollar,
+					kultur, hästar, österdalälven å trevlig stämning. Jag hoppas att vi kan göra det i samma gemytliga
+					albanska ciggdimma som förra året. Ni får komma när ni vill och stanna tills ni vill hem, men som
+					jag alltid säger lite guiltande, minst fredag till söndag, annars är det inte värt det.
 				</p>
+				<p>
+					Som vanligt bjuds det på det mesta och otäckaste från året som vi glömt och allt som förmodligen
+					kommer hända. Vi lagar mat ihop till viss del och för att minska avundssjuka dricker vi en sorts öl,
+					inget annat.
+				</p>
+				<p>* nytt för i år</p>
 			</div>
 		);
 	}

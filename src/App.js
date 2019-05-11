@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import NavBar from './navbar';
 import Info from './pages/info';
+import Carousel from './pages/carousel';
 import Filmer from './pages/filmer';
 import Kontakt from './pages/kontakt';
 import CountDown from './pages/countdown';
@@ -15,6 +16,7 @@ function App() {
 			<div className="app">
 				<CountDown />
 				<Info />
+				<Carousel />
 				<Filmer />
 				<Kontakt />
 			</div>
