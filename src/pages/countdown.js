@@ -8,7 +8,7 @@ export default class Filmer extends React.PureComponent {
 
 	render() {
 		return (
-			<div>
+			<div className="banner-text">
 				<h2>{this._daysLeft()} Dagar kvar</h2>
 			</div>
 		);

@@ -1,6 +1,7 @@
 import React from 'react';
 import { ParallaxBanner } from 'react-scroll-parallax';
-import background from './images/bg_1.jpg';
+import background from '../images/bg_1.jpg';
+import Header from './header';
 
 export default class NavBar extends React.PureComponent {
 	render() {
@@ -11,10 +12,13 @@ export default class NavBar extends React.PureComponent {
 						{
 							image: background,
 							amount: 0.5
+						},
+						{
+							amount: 0.0,
+							children: <Header />
 						}
 					]}
 				/>
-				<h1>Missömmar 2019</h1>
 			</div>
 		);
 	}
