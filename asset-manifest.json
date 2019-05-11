@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/missommar-2019/static/css/main.2cce8147.chunk.css",
-    "main.js": "/missommar-2019/static/js/main.6f678413.chunk.js",
-    "main.js.map": "/missommar-2019/static/js/main.6f678413.chunk.js.map",
+    "main.css": "/missommar-2019/static/css/main.c31422ab.chunk.css",
+    "main.js": "/missommar-2019/static/js/main.61bfa448.chunk.js",
+    "main.js.map": "/missommar-2019/static/js/main.61bfa448.chunk.js.map",
     "runtime~main.js": "/missommar-2019/static/js/runtime~main.7c87d2d9.js",
     "runtime~main.js.map": "/missommar-2019/static/js/runtime~main.7c87d2d9.js.map",
-    "static/js/2.b41502e9.chunk.js": "/missommar-2019/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/missommar-2019/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.944e31de.chunk.js": "/missommar-2019/static/js/2.944e31de.chunk.js",
+    "static/js/2.944e31de.chunk.js.map": "/missommar-2019/static/js/2.944e31de.chunk.js.map",
     "index.html": "/missommar-2019/index.html",
-    "precache-manifest.ef5c65a55380f5b1bfd288065e347ff3.js": "/missommar-2019/precache-manifest.ef5c65a55380f5b1bfd288065e347ff3.js",
+    "precache-manifest.afc7c7daa58257c25032f29ad3aa589b.js": "/missommar-2019/precache-manifest.afc7c7daa58257c25032f29ad3aa589b.js",
     "service-worker.js": "/missommar-2019/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/missommar-2019/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/missommar-2019/static/media/logo.5d5d9eef.svg"
+    "static/css/main.c31422ab.chunk.css.map": "/missommar-2019/static/css/main.c31422ab.chunk.css.map",
+    "static/media/bg_1.jpg": "/missommar-2019/static/media/bg_1.bd070356.jpg"
   }
 }

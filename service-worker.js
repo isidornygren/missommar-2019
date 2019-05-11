@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/missommar-2019/precache-manifest.ef5c65a55380f5b1bfd288065e347ff3.js"
+  "/missommar-2019/precache-manifest.afc7c7daa58257c25032f29ad3aa589b.js"
 );
 
 self.addEventListener('message', (event) => {
